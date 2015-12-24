@@ -1,0 +1,11 @@
+{
+  "name": "SpeedTestClient",
+  "version": "1.0.0",
+  "main": "client.js",
+  "author": "Aakash Mangal",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.67.0",
+    "yargs": "*"
+  }
+}
