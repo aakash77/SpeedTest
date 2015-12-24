@@ -2,7 +2,7 @@
 
 It has two components client and server both of which are implemented using node.js at the base.
 
-Steps to run
+Steps to run:
 
 Server
 
