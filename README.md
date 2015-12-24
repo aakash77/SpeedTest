@@ -5,6 +5,7 @@ It has two components client and server both of which are implemented using node
 Steps to run
 
 Server
+
 1. npm install
 It is going to install all the required libraries
 
@@ -12,6 +13,7 @@ It is going to install all the required libraries
 It starts the server at port 8080
 
 Client
+
 1. npm install
 It is again going to install all the required libraries for the client application
 
