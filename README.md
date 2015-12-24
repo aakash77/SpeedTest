@@ -3,6 +3,7 @@
 It has two components client and server both of which are implemented using node.js at the base.
 
 Steps to run
+
 Server
 1. npm install
 It is going to install all the required libraries
